@@ -21,21 +21,8 @@ Only the owner (Wallet that issued the contract) can destroy or terminate the co
 
 Fork it and do your thing. Or get in touch with me and we can figure something out. 
 
-### Authors
-
-* **Stephen Hall** - *Initial work* - [halls7588](https://github.com/halls7588)
-
-See also the list of [contributors]( https://github.com/halls7588/ERC20-Token-and-ICO-Contract/graphs/contributors) who participated in this project.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ### Donations Excepted
 Send to:
 
-Bitcoin: 3FjpxkdTSrPz6KYk1oWf3yTFiZgei8eQ3X
+Ethereum: 0x17D31194b62528Ffd1EE8A615dbB5bfA4100298f
 
-Ethereum: 0xa961d6886359df290B49d752405CbB7ac0adB123
-
-Monero: 43gnpSr6mruj2yxQuQaM4J8xWqcy3ogGN2YPzSZQry8EcZEjpkCE1ioTePGmaJRXBaVZetTegMNL22riuHFmcTcNJCZ3v88
